@@ -8,7 +8,7 @@ PDF_FOLDER   = os.path.join(BASE_DIR, 'documents', 'pdf')
 DB_FILE      = os.path.join(BASE_DIR, 'database.db')
 
 
-TELEGRAM_TOKEN = '7931020579:AAHP-8DTdM3gHl0oaDgkPQlsLOCO6uSEKdA'
+TELEGRAM_TOKEN = ''
 
 LANG_MAP = {
     'Русский': 'ru',
